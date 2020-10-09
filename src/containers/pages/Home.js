@@ -5,9 +5,7 @@ import {Link} from 'react-router-dom';
 import TopicHeading from '../TopicHeading';
 
 const Home = () => {
-    const cards=[
-        {id:'',title:'',para:'',btn:''}
-    ]
+
     const card_cont=[
         {id:'1'},
         {id:'2'},
